@@ -22,7 +22,7 @@ Refractor the code of an existing working website to make it meet current access
 ## **Images**
 
 Image of HTML:
-![Image of updated HTML](https://github.com/laurenb08/week1-code-refractor/raw/main/assets/images/UpdatedHTML.png)
+![Image of updated HTML](https://github.com/laurenb08/code-refractor/raw/main/assets/images/UpdatedHTML.png)
 
 Image of CSS:
-![Image of updated CSS](https://github.com/laurenb08/week1-code-refractor/raw/main/assets/images/UpdatedCSS.png)
+![Image of updated CSS](https://github.com/laurenb08/code-refractor/raw/main/assets/images/UpdatedCSS.png)
